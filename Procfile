@@ -1,1 +1,1 @@
-web:gunicorn applicationfile:application
+web:gunicorn app:app
