@@ -1,0 +1,1 @@
+web:gunicorn applicationfile:application
